@@ -6,3 +6,7 @@
 /CryptApp/obj/Debug
 /.vs/CryptApp/DesignTimeBuild
 /.vs/CryptApp
+/DesCryptTest/bin/Debug
+/DesCryptTest/obj/Debug
+/packages
+/.vs/config
